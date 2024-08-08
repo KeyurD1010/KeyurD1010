@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-*nirmalshah20519/nirmalshah20519* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*KeyurD1010/KeyurD1010* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I'm *Nirmal Shah*, a passionate software engineer and M.Tech student specializing in Machine Learning at DAIICT Gandhinagar. With a strong foundation in full-stack development, I strive to create impactful solutions through code.
+I'm *Keyur Dhanani*, a passionate software engineer and M.Tech student specializing in Machine Learning at DAIICT Gandhinagar. With a strong foundation in full-stack development, I strive to create impactful solutions through code.
 
 - 🌍 *From*: Surat, Gujarat, India
 - 🎓 *Education*:
