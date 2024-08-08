@@ -35,7 +35,7 @@ I'm *Keyur Dhanani*, a passionate software engineer and M.Tech student specializ
 - 🌐 *Frontend*: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white). ![Tailwind-CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss). ![EJS](https://img.shields.io/badge/EJS-B4CA65.svg?style=for-the-badge&logo=EJS&logoColor=black)
 - 🖥 *Backend*:![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 - ☁️ *Cloud*: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) (S3, EC2)
-- 📊 *ML Libraries*: ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white). ![neuralforecast ](https://img.shields.io/badge/neuralforecast-light pink?style=flat)
+- 📊 *ML Libraries*: ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white).![neuralforecast ](https://img.shields.io/badge/neuralforecast-light pink?style=flat)
 - 🗄 *Databases*: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat)
 
 ### Projects & Experience
