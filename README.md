@@ -24,7 +24,9 @@ I'm *Keyur Dhanani*, a passionate software engineer and M.Tech student specializ
 - 🎓 *Education*:
     - 🎓 M.Tech in ICT Machine Learning Specialization from *DAIICT* (CGPA 7.94)
     - 🎓 B.Tech. in Information Technology from *DDU Nadiad* (CGPA: 8.19)
-- 🏆 *Achievements*: Qualified GATE in 2022 and 2023.
+- 🏆 *Achievements*: Qualified GATE in 2023.
+                      4 star in Problem Sovling Hackerrank.
+                      5 star in C++ hackerrank.                   
 - 🔍 *Interests*: Machine Learning, Web Development, Information Retrieval, Deep Learning.
 
 ### My Tech Stack
