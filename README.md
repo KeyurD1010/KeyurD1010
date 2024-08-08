@@ -36,7 +36,7 @@ I'm *Keyur Dhanani*, a passionate software engineer and M.Tech student specializ
 - 🖥 *Backend*:![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 - ☁️ *Cloud*: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) (S3, EC2)
 - 📊 *ML Libraries*: ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white).
-  ![neuralforecast](https://img.shields.io/badge/neuralforecast-light pink?style=flat)
+  ![neuralforecast](https://img.shields.io/badge/neuralforecast-light%20pink?style=flat).
 - 🗄 *Databases*: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat)
 
 ### Projects & Experience
