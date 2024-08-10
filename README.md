@@ -50,6 +50,7 @@ I'm *Keyur Dhanani*, a passionate software engineer and M.Tech student specializ
   - 📚 AskMe.com - AskMe.com is a community-driven Q&A site offering insights and solutions from user-generated content
   - 🏫 Swimming Training School Registration Portal
   - 🧠 Text to Image GenAI Web Application (MERN stack + DALL-E model for Image Generation )
+  - portfolio site [![Netlify Status](https://api.netlify.com/api/v1/badges/ca07c742-85f1-4f89-bc66-1ce840449e92/deploy-status)](https://app.netlify.com/sites/keyur-dhanani-portfolio/deploys)
 
 
 ### Hobbies & Interests
